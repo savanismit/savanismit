@@ -22,7 +22,7 @@ const Savani = {
   code: [C, C++, Python, Javascript, HTML, CSS, Bootstrap, Kotlin],
   frameworks_and_Libraries: [Flask, Django, React, Node, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, NLTK],
   databases: [MySQL, MongoDB],
-  field_of_Interests: {
+  fields_of_Interest: {
                         Technical: "Data Science", "Web Application", "NLP", "Data Analytics", "Machine Learning",
                         Non_Technical: "Appitude", "Logical Reasoning", "Management", "Virtual Gaming",
                       },
