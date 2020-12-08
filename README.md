@@ -17,7 +17,7 @@
   
 **A little bit more about me:**
   ```javascript
-const thai = {
+const Savani = {
   pronouns: "He" | "his",
   code: [C, C++, Python, Javascript, HTML, CSS, Bootstrap, Kotlin],
   frameworks_and_Libraries: [Flask, Django, React, Node, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, NLTK],
