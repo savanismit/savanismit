@@ -6,7 +6,7 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
-- 📝[My Resume](https://drive.google.com/file/d/1aWB-zLqpkM0nCldxhr0FPL2u4QaOOjuj/view?usp=sharing)
+- 📝[My Resume](https://drive.google.com/file/d/1PKYVVcpSwvzRtMIIthnVy2y9yvXobi3c/view?usp=sharing)
 
 **📫 How to reach me:**  
 
