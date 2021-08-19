@@ -4,7 +4,7 @@
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Django; 
+- 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[My Resume](https://drive.google.com/file/d/1aWB-zLqpkM0nCldxhr0FPL2u4QaOOjuj/view?usp=sharing)
 
